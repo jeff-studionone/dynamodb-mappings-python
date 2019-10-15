@@ -11,7 +11,7 @@ You just need to send to the function `build_from_model(data)` and pass your dic
 You just need to send to the function `get_from_model(data)` and pass your dictionary that will return a dictionary with the data structure that you need.
 
 #### Note:
-Be careful because `build_from_model` return `{'M': your-data}` and `get_from_model` requires a dictionary with `{'M': your-data}`
+Be careful because `build_from_model` returns `{'M': your-data}` and `get_from_model` requires a dictionary with `{'M': your-data}`
 
 
 ```python
