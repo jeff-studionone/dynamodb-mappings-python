@@ -1,6 +1,7 @@
 
 ## Introduction
 This is a python recursion that will allow you to conver your dictionary values into the correct structure necessary to save the data in DynamoDB.
+More information about [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html)
 
 ## Use
 
